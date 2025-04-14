@@ -153,6 +153,10 @@
 }
 
 .section__paragraph a:focus {
+  outline: none;
+}
+
+.section__paragraph a:focus-visible {
   outline: 1px solid var(--text-color);
 }
 
