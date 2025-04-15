@@ -12,6 +12,7 @@
   --bg-color: #fff;
   --text-color: #353430;
   --title-color: #FFC2E6;
+  --section-title-color: #353430;
   --bg-image: url("../images/cover-image-light.png");
 }
 
@@ -35,11 +36,11 @@
     --bg-image: url("../images/cover-image-light.png");
   }
 
-  .theme-light .header__decoration-dark::before {
+  .header__decoration-dark::before {
     display: none;
   }
   
-  .theme-light .header__decoration-dark::after {
+  .header__decoration-dark::after {
     display: none;
   }
 }

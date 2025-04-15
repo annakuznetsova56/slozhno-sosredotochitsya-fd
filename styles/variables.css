@@ -10,5 +10,7 @@
   --bg-color: #000028;
   --text-color: #F1B2CE;
   --title-color: #DB00FF;
+  --section-title-color: #FF0070;
   --bg-image: url("../images/cover-image-dark.png");
+  --title-size: clamp(7.25rem, 7.0115rem + 1.0178vw, 7.5rem);
 }
